@@ -1,7 +1,7 @@
 # SurfMaps
 ## A download for every CS:S surf map.
 
-This has every map on KSF, as well as a few others. I keep it updated when new maps are released. If I forgot to add a map, please [leave a comment on my Steam profile](http://steamcommunity.com/profiles/76561198059389558) to let me know.
+This has every map on KSF, as well as a few others. I update it when new maps are released. If I forgot to add a map, please [leave a comment on my Steam profile](http://steamcommunity.com/profiles/76561198059389558) to let me know.
 
 Download link: https://mega.nz/#F!RLp1EK5b!WFWTfsxP24n2JHt9glt7rA
 
