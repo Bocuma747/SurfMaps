@@ -32,5 +32,5 @@ Lien de téléchargement - https://mega.nz/#F!RLp1EK5b!WFWTfsxP24n2JHt9glt7rA</b
   <summary>Svenska - Klicka här</summary>
   Detta har varje map i KSF och flera andra servrar. Jag uppdaterar den när nya maps släpps. Om jag glömde att lägga till en map, <a href="http://steamcommunity.com/profiles/76561198059389558">skriv en kommentar på min Steam profil</a> för att informera mig.</br>
   </br>
-  Nedladdningslänk - https://mega.nz/#F!RLp1EK5b!WFWTfsxP24n2JHt9glt7rA</br>
+  Ladda ner här - https://mega.nz/#F!RLp1EK5b!WFWTfsxP24n2JHt9glt7rA</br>
   </details>
