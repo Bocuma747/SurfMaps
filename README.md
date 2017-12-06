@@ -19,7 +19,7 @@ Download link: https://mega.nz/#F!RLp1EK5b!WFWTfsxP24n2JHt9glt7rA
 Isto tem todos os mapas do KSF assim como alguns outros servidores. Eu atualizo quando novos mapas são lançados. Se esqueci de adicionar um mapa, por favor <a href="http://steamcommunity.com/profiles/76561198059389558">escreva um comentário no meu perfil do Steam</a> para me informar.</br>
 </br>
 Baixar - https://mega.nz/#F!RLp1EK5b!WFWTfsxP24n2JHt9glt7rA</br>
-  </details>
+</details>
 <details>
   <summary>Français - Cliquez ici</summary>
   Ceci a toutes les maps de KSF, ainsi que d'autres serveurs. Je le mets à jour lorsque nouvelles maps sont publiées. Si j'ai oublié         d'ajouter un map, veuillez <a href="http://steamcommunity.com/profiles/76561198059389558">écrivez un commentaire sur mon profil Steam</a> pour m'informer.</br>
@@ -44,4 +44,3 @@ Lien de téléchargement - https://mega.nz/#F!RLp1EK5b!WFWTfsxP24n2JHt9glt7rA</b
   </br>
   Elŝutoligilo - https://mega.nz/#F!RLp1EK5b!WFWTfsxP24n2JHt9glt7rA</br>
   </details>
-<details>
