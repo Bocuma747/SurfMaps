@@ -32,3 +32,9 @@ Lien de téléchargement - https://mega.nz/#F!RLp1EK5b!WFWTfsxP24n2JHt9glt7rA</b
   </br>
   Ladda ner här - https://mega.nz/#F!RLp1EK5b!WFWTfsxP24n2JHt9glt7rA</br>
   </details>
+<details>
+  <summary>Esperanto - Alklaku ĉi tie</summary>
+  Ĉi tio havas ĉiun mapon pri KSF, kaj pluraj aliaj serviloj. Mi ĝisdatigas ĝin kiam novoj mapoj estas publikigitaj. Se mi forgesis aldoni mapon, bonvolu <a href="http://steamcommunity.com/profiles/76561198059389558">skribi komenton pri mia Steam profilo</a> por informi min.</br>
+  </br>
+  Elŝutoligilo - https://mega.nz/#F!RLp1EK5b!WFWTfsxP24n2JHt9glt7rA</br>
+  </details>
