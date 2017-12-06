@@ -38,3 +38,9 @@ Lien de téléchargement - https://mega.nz/#F!RLp1EK5b!WFWTfsxP24n2JHt9glt7rA</b
   </br>
   Elŝutoligilo - https://mega.nz/#F!RLp1EK5b!WFWTfsxP24n2JHt9glt7rA</br>
   </details>
+<details>
+  <summary>Suomi - Klikkaa tästä</summary>
+  Tässä on jokainen mappi KSF:ällä, ja pari muutakin. Päivitän tätä ainakuin uusi mappi on julkaistu. Jos unohdan lisätä jonkin mapin, ilmoita <a href="http://steamcommunity.com/profiles/76561198059389558">siitä steam profiilini kommenteissa.</a></br>
+  </br>
+  Lataa linkistä - https://mega.nz/#F!RLp1EK5b!WFWTfsxP24n2JHt9glt7rA</br>
+  </details>
