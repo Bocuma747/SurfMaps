@@ -22,7 +22,7 @@ Baixar - https://mega.nz/#F!RLp1EK5b!WFWTfsxP24n2JHt9glt7rA</br>
 </details>
 <details>
   <summary>Français - Cliquez ici</summary>
-  Ceci a toutes les maps de KSF, ainsi que autres. Je le mets à jour lorsque nouvelles maps sont publiées. Si j'ai oublié         d'ajouter un map, veuillez <a href="http://steamcommunity.com/profiles/76561198059389558">écrivez un commentaire sur mon profil Steam</a> pour m'informer.</br>
+  Ceci a toutes les maps de KSF, ainsi que autres. Je le mets à jour lorsque nouvelles maps sont publiées. Si j'ai oublié d'ajouter un map, veuillez <a href="http://steamcommunity.com/profiles/76561198059389558">écrivez un commentaire sur mon profil Steam</a> pour m'informer.</br>
 </br>
 Lien de téléchargement - https://mega.nz/#F!RLp1EK5b!WFWTfsxP24n2JHt9glt7rA</br>
 </details>
