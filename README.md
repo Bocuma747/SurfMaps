@@ -27,7 +27,7 @@ Download pros mapas surf_s* a surf_z* - https://mega.nz/#F!9fpAWDKK!b_5H7iNbYI3S
 </details>
 <details>
   <summary>Français - Cliquez ici</summary>
-  Ceci contient toutes les maps de KSF, ainsi que quelques autres. Je le mets à jour quand de nouvelles maps sont publiées. Si j'ai oublié d'ajouter une map, merci <a href="http://steamcommunity.com/profiles/76561198059389558">d'écrire un commentaire sur mon profil Steam</a> afin de m'informer.</br>
+  Ceci contient toutes les maps de KSF et également, quelques autres. Je le mets à jour quand de nouvelles maps sont publiées. Si j'ai oublié d'ajouter une map, merci de me <a href="http://steamcommunity.com/profiles/76561198059389558">laisser un commentaire sur mon profil Steam</a> afin de m'en informer.</br>
 </br>
 Lien de téléchargement pour les maps surf_0* à surf_r* - https://mega.nz/#F!RLp1EK5b!WFWTfsxP24n2JHt9glt7rA</br>
 Lien de téléchargement pour les maps surf_s* à surf_z* - https://mega.nz/#F!9fpAWDKK!b_5H7iNbYI3S4wzypC-Y0g</br>
