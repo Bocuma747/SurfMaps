@@ -44,7 +44,7 @@ Lien de téléchargement pour les maps surf_n* à surf_z* - https://mega.nz/#F!9
   </details>
 <details>
   <summary>Esperanto - Alklaku ĉi tie</summary>
-  Ĉi tio havas ĉiun mapon pri KSF, kaj pluraj aliaj mapoj. Mi ĝisdatigas ĝin kiam novoj mapoj estas publikigitaj. Se mi forgesis aldoni mapon, bonvolu <a href="http://steamcommunity.com/profiles/76561198059389558">skribi komenton pri mia Steam profilo</a> por informi min.</br>
+  Ĉi tio havas ĉiun mapon de KSF, kaj pluraj aliaj mapoj. Mi ĝisdatigas ĝin kiam novoj mapoj estas publikigitaj. Se mi forgesis aldoni mapon, bonvolu <a href="http://steamcommunity.com/profiles/76561198059389558">skribi komenton en mia Steam profilo</a> por informi min.</br>
   </br>
   Elŝutoj:</br>
   Mapoj surf_0* al surf_m*: https://mega.nz/#F!RLp1EK5b!WFWTfsxP24n2JHt9glt7rA</br>
