@@ -21,7 +21,7 @@ Download link for maps surf_n* through surf_z*: https://mega.nz/#F!9fpAWDKK!b_5H
 
 <details>
   <summary>Español - Haz clic aquí</summary>
-  Esto tiene todos los mapas de KSF, y algunos otros. Lo actualizo cuando nuevos mapas son publicados. Si falta un mapa, por favor <a href="http://steamcommunity.com/profiles/76561198059389558">escribe un comentario en mi perfil de Steam</a> para informarme.</br>
+  Esto tiene todos los mapas de KSF, y algunos otros. Lo actualizo cuando nuevos mapas son publicados. Si me olvidé de cargar un mapa, por favor <a href="http://steamcommunity.com/profiles/76561198059389558">escribe un comentario en mi perfil de Steam.</a></br>
   </br>
   Enlace de descarga a los mapas surf_0* a surf_m* - https://mega.nz/#F!RLp1EK5b!WFWTfsxP24n2JHt9glt7rA</br>
   Enlace de descarga a los mapas surf_n* a surf_z* - https://mega.nz/#F!9fpAWDKK!b_5H7iNbYI3S4wzypC-Y0g</br>
@@ -30,7 +30,7 @@ Download link for maps surf_n* through surf_z*: https://mega.nz/#F!9fpAWDKK!b_5H
 
 <details>
 <summary>Português - Clique aqui</summary>
-Isto tem todos os mapas do KSF, e alguns outros. Eu atualizo quando novos mapas são publicados. Se esqueci de adicionar um mapa, por favor <a href="http://steamcommunity.com/profiles/76561198059389558">escreva um comentário no meu perfil do Steam.</a></br>
+Isto tem todos os mapas do KSF, e alguns outros. Eu atualizo quando novos mapas são publicados. Se esqueci de fazer o upload dum mapa, por favor <a href="http://steamcommunity.com/profiles/76561198059389558">escreva um comentário no meu perfil do Steam.</a></br>
 </br>
 Download mapas surf_0* a surf_m* - https://mega.nz/#F!RLp1EK5b!WFWTfsxP24n2JHt9glt7rA</br>
 Download mapas surf_n* a surf_z* - https://mega.nz/#F!9fpAWDKK!b_5H7iNbYI3S4wzypC-Y0g</br>
@@ -58,7 +58,7 @@ Lien de téléchargement pour les maps surf_n* à surf_z* - https://mega.nz/#F!9
   
 <details>
   <summary>Esperanto - Alklaku ĉi tie</summary>
-  Ĉi tio havas ĉiun mapon de KSF, kaj pluraj aliaj mapoj. Mi ĝisdatigas ĝin kiam novoj mapoj estas publikigitaj. Se mi forgesis aldoni mapon, bonvolu <a href="http://steamcommunity.com/profiles/76561198059389558">skribi komenton en mia Steam profilo</a> por informi min.</br>
+  Ĉi tio havas ĉiun mapon de KSF, kaj pluraj aliaj mapoj. Mi ĝisdatigas ĝin kiam novoj mapoj estas publikigitaj. Se mi forgesis aldoni mapon, bonvolu <a href="http://steamcommunity.com/profiles/76561198059389558">skribi komenton en mia Steam profilo.</a></br>
   </br>
   Elŝutoj:</br>
   Mapoj surf_0* al surf_m*: https://mega.nz/#F!RLp1EK5b!WFWTfsxP24n2JHt9glt7rA</br>
