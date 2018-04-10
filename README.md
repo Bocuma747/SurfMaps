@@ -10,8 +10,7 @@ Download link for maps surf_n* through surf_z*: https://mega.nz/#F!9fpAWDKK!b_5H
 </br>
 </br>
 <details>
-  <summary>
-<details>中文 - 点击这里</summary>
+<summary>中文 - 点击这里</summary>
 这有每张地图在KSF。我上传每张新地图。如果我忘了上传地图，<a href="http://steamcommunity.com/profiles/76561198059389558">请写信息在我的Steam。</a></br>
 </br>
 下载地图 surf_0* 到 surf_m* - https://mega.nz/#F!RLp1EK5b!WFWTfsxP24n2JHt9glt7rA</br>
