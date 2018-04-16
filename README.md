@@ -9,11 +9,6 @@ Download link for maps surf_n* through surf_z*: https://mega.nz/#F!9fpAWDKK!b_5H
 
 </br>
 </br>
-   <head>
-    <style>
-  @font-family: Tahoma, Arial, Helvetica, "Microsoft YaHei New", "Microsoft Yahei", "微软雅黑", 宋体, SimSun, STXihei, "华文细黑", sans-serif;
-    </style>
-   </head>
 <details>
 <summary font-family="Microsoft YaHei New", "Microsoft Yahei", "微软雅黑", 宋体, SimSun, STXihei, "华文细黑", sans-serif">简体中文 - 点击这里</summary>
 <p font-family="Microsoft YaHei New", "Microsoft Yahei", "微软雅黑", 宋体, SimSun, STXihei, "华文细黑", sans-serif">
