@@ -9,10 +9,15 @@ Download link for maps surf_n* through surf_z*: https://mega.nz/#F!9fpAWDKK!b_5H
 
 </br>
 </br>
-
+   <head>
+    <style>
+  @font-family: Tahoma, Arial, Helvetica, "Microsoft YaHei New", "Microsoft Yahei", "微软雅黑", 宋体, SimSun, STXihei, "华文细黑", sans-serif;
+    </style>
+   </head>
 <details>
-<summary>简体中文 - 点击这里</summary>
-这有在KSF的每张地图（surf map）。我上传每张新地图。如果我忘了上传地图，<a href="http://steamcommunity.com/profiles/76561198059389558">请在Steam告诉我。</a></br>
+<summary font-family="Microsoft YaHei New", "Microsoft Yahei", "微软雅黑", 宋体, SimSun, STXihei, "华文细黑", sans-serif">简体中文 - 点击这里</summary>
+<p font-family="Microsoft YaHei New", "Microsoft Yahei", "微软雅黑", 宋体, SimSun, STXihei, "华文细黑", sans-serif">
+这有在KSF的每张地图（surf map）。我上传每张新地图。如果我忘了上传地图，<a href="http://steamcommunity.com/profiles/76561198059389558">请在Steam告诉我。</a></p></br>
 </br>
 下载地图 surf_0* 到 surf_m* - https://mega.nz/#F!RLp1EK5b!WFWTfsxP24n2JHt9glt7rA</br>
 下载地图 surf_n* 到 surf_z* - https://mega.nz/#F!9fpAWDKK!b_5H7iNbYI3S4wzypC-Y0g</br>
