@@ -2,8 +2,7 @@
 
 This has every map on KSF, as well as a few others. I update it when new maps are released. If I forgot to add a map, please [write a comment on my Steam profile](http://steamcommunity.com/profiles/76561198059389558) to let me know.
 
-Download link for maps surf_0* through surf_m*: https://mega.nz/#F!RLp1EK5b!WFWTfsxP24n2JHt9glt7rA</br>
-Download link for maps surf_n* through surf_z*: https://mega.nz/#F!9fpAWDKK!b_5H7iNbYI3S4wzypC-Y0g
+Download here: https://drive.google.com/drive/folders/1R1w7smYaIh_OC14aGDQsL8BJE2g5K3lQ?usp=sharing</br>
 
 ~Bocuma
 
