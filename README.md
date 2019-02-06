@@ -9,30 +9,20 @@ Download link for maps surf_n* through surf_z*: https://mega.nz/#F!9fpAWDKK!b_5H
 
 </br>
 </br>
-<details>
-<summary>简体中文 - 点击这里</summary>
-这有在KSF Surf Server的每张地图（surf map）。我上传每张新地图。如果我忘了上传地图，<a href="http://steamcommunity.com/profiles/76561198059389558">请在Steam告诉我。</a></br>
-</br>
-下载地图从 surf_0* 到 surf_m* - https://mega.nz/#F!RLp1EK5b!WFWTfsxP24n2JHt9glt7rA</br>
-下载地图从 surf_n* 到 surf_z* - https://mega.nz/#F!9fpAWDKK!b_5H7iNbYI3S4wzypC-Y0g</br>
-</br>
-</details>
 
 <details>
   <summary>Español - Haz clic aquí</summary>
-  Esto tiene todos los mapas de KSF, y algunos otros. Lo actualizo cuando hay nuevos mapas. Si me olvidé de cargar un mapa, por favor <a href="http://steamcommunity.com/profiles/76561198059389558">escribe un comentario en mi perfil de Steam.</a></br>
+  Esto tiene todos los mapas de KSF y varios otros mapas. Si me olvidé de cargar un mapa, por favor <a href="http://steamcommunity.com/profiles/76561198059389558">escribe un comentario en mi perfil de Steam.</a></br>
   </br>
-  Mapas surf_0* a surf_m* - https://mega.nz/#F!RLp1EK5b!WFWTfsxP24n2JHt9glt7rA</br>
-  Mapas surf_n* a surf_z* - https://mega.nz/#F!9fpAWDKK!b_5H7iNbYI3S4wzypC-Y0g</br>
+  Download aquí - https://drive.google.com/drive/folders/1R1w7smYaIh_OC14aGDQsL8BJE2g5K3lQ?usp=sharing</br>
   </br>
 </details>
 
 <details>
 <summary>Português - Clique aqui</summary>
-Isto tem todos os mapas do KSF, e alguns outros. Eu atualizo quando há novos mapas. Se esqueci de fazer o upload dum mapa, por favor <a href="http://steamcommunity.com/profiles/76561198059389558">escreva um comentário no meu perfil do Steam.</a></br>
+Isto tem todos os mapas do KSF e vários outros mapas. Se eu esqueci de fazer o upload dum mapa, por favor <a href="http://steamcommunity.com/profiles/76561198059389558">escreva um comentário no meu perfil do Steam.</a></br>
 </br>
-Download mapas surf_0* a surf_m* - https://mega.nz/#F!RLp1EK5b!WFWTfsxP24n2JHt9glt7rA</br>
-Download mapas surf_n* a surf_z* - https://mega.nz/#F!9fpAWDKK!b_5H7iNbYI3S4wzypC-Y0g</br>
+Download aqui - https://drive.google.com/drive/folders/1R1w7smYaIh_OC14aGDQsL8BJE2g5K3lQ?usp=sharing</br>
 </br>
 </details>
 
@@ -40,8 +30,7 @@ Download mapas surf_n* a surf_z* - https://mega.nz/#F!9fpAWDKK!b_5H7iNbYI3S4wzyp
   <summary>Français - Cliquez ici</summary>
   Ceci contient toutes les maps de KSF et également, quelques autres. Je le mets à jour quand de nouvelles maps sont publiées. Si j'ai oublié d'ajouter une map, merci de me <a href="http://steamcommunity.com/profiles/76561198059389558">laisser un commentaire sur mon profil Steam</a> afin de m'en informer.</br>
 </br>
-Lien de téléchargement pour les maps surf_0* à surf_m* - https://mega.nz/#F!RLp1EK5b!WFWTfsxP24n2JHt9glt7rA</br>
-Lien de téléchargement pour les maps surf_n* à surf_z* - https://mega.nz/#F!9fpAWDKK!b_5H7iNbYI3S4wzypC-Y0g</br>
+Lien de téléchargement - https://drive.google.com/drive/folders/1R1w7smYaIh_OC14aGDQsL8BJE2g5K3lQ?usp=sharing</br>
 </br>
 </details>
 
@@ -50,16 +39,14 @@ Lien de téléchargement pour les maps surf_n* à surf_z* - https://mega.nz/#F!9
   Tässä on jokainen mappi KSF:ällä, ja pari muutakin. Päivitän tätä ainakuin uusi mappi on julkaistu. Jos unohdan lisätä jonkin mapin, ilmoita <a href="http://steamcommunity.com/profiles/76561198059389558">siitä steam profiilini kommenteissa.</a></br>
   </br>
   Lataa linkistä:</br>
-  surf_0* - surf_m*: https://mega.nz/#F!RLp1EK5b!WFWTfsxP24n2JHt9glt7rA</br>
-  surf_n* - surf_z*: https://mega.nz/#F!9fpAWDKK!b_5H7iNbYI3S4wzypC-Y0g</br>
-  
+  https://drive.google.com/drive/folders/1R1w7smYaIh_OC14aGDQsL8BJE2g5K3lQ?usp=sharing</br>
+  </br>
   </details>
   
 <details>
   <summary>Esperanto - Alklaku ĉi tie</summary>
   Ĉi tio havas ĉiun mapon de KSF, kaj pluraj aliaj mapoj. Mi ĝisdatigas ĝin kiam novoj mapoj estas publikigitaj. Se mi forgesis aldoni mapon, bonvolu <a href="http://steamcommunity.com/profiles/76561198059389558">skribi komenton en mia Steam profilo.</a></br>
   </br>
-  Elŝutoj:</br>
-  Mapoj surf_0* al surf_m*: https://mega.nz/#F!RLp1EK5b!WFWTfsxP24n2JHt9glt7rA</br>
-  Mapoj surf_n* al surf_z*: https://mega.nz/#F!9fpAWDKK!b_5H7iNbYI3S4wzypC-Y0g</br>
+  Elŝuto:</br>
+  https://drive.google.com/drive/folders/1R1w7smYaIh_OC14aGDQsL8BJE2g5K3lQ?usp=sharing</br>
   </details>
