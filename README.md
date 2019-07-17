@@ -11,7 +11,7 @@ Download here: https://drive.google.com/drive/folders/1R1w7smYaIh_OC14aGDQsL8BJE
 
 <details>
   <summary>Español - Haz clic aquí</summary>
-  Esto tiene todos los mapas de KSF y varios otros mapas. Si me olvidé de cargar un mapa, por favor <a href="http://steamcommunity.com/profiles/76561198059389558">escribe un comentario en mi perfil de Steam.</a></br>
+  Esto tiene todos los mapas de KSF y varios otros mapas. Si falta un mapa, por favor <a href="http://steamcommunity.com/profiles/76561198059389558">escribe un comentario en mi perfil de Steam.</a></br>
   </br>
   Download aquí - https://drive.google.com/drive/folders/1R1w7smYaIh_OC14aGDQsL8BJE2g5K3lQ?usp=sharing</br>
   </br>
@@ -19,9 +19,9 @@ Download here: https://drive.google.com/drive/folders/1R1w7smYaIh_OC14aGDQsL8BJE
 
 <details>
 <summary>Português - Clique aqui</summary>
-Isto tem todos os mapas do KSF e vários outros mapas. Se eu esqueci de fazer o upload dum mapa, por favor <a href="http://steamcommunity.com/profiles/76561198059389558">escreva um comentário no meu perfil do Steam.</a></br>
+Isto tem todos os mapas do KSF e vários outros mapas. Se falta um mapa, por favor <a href="http://steamcommunity.com/profiles/76561198059389558">escreva um comentário no meu perfil do Steam.</a></br>
 </br>
-Download aqui - https://drive.google.com/drive/folders/1R1w7smYaIh_OC14aGDQsL8BJE2g5K3lQ?usp=sharing</br>
+Baixar aqui - https://drive.google.com/drive/folders/1R1w7smYaIh_OC14aGDQsL8BJE2g5K3lQ?usp=sharing</br>
 </br>
 </details>
 
