@@ -44,7 +44,7 @@ Lien de téléchargement - https://drive.google.com/drive/folders/1R1w7smYaIh_OC
   
 <details>
   <summary>Esperanto - Alklaku ĉi tie</summary>
-  Ĉi tio havas ĉiun mapon de KSF, kaj pluraj aliaj mapoj. Mi ĝisdatigas ĝin kiam novoj mapoj estas publikigitaj. Se mi forgesis aldoni mapon, bonvolu <a href="http://steamcommunity.com/profiles/76561198059389558">skribi komenton en mia Steam profilo.</a></br>
+  Ĉi tio havas ĉiun mapon de KSF, kaj plurajn aliajn mapojn. Mi ĝisdatigas ĝin kiam novoj mapoj estas publikigitaj. Se mi forgesis aldoni mapon, bonvolu <a href="http://steamcommunity.com/profiles/76561198059389558">skribi komenton en mia Steam profilo.</a></br>
   </br>
   Elŝuto:</br>
   https://drive.google.com/drive/folders/1R1w7smYaIh_OC14aGDQsL8BJE2g5K3lQ?usp=sharing</br>
